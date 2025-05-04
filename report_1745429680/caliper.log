@@ -1,8 +1,0 @@
-2025.04.23-17:33:10.261[90m debug[39m [caliper] [rateControl.js] 	Constructed a winston logger with the specified settings
-2025.04.23-17:33:10.535[32m info [39m [caliper] [cli-launch-manager] 	Binding specification is present, performing binding for "fabric:1.4"
-2025.04.23-17:33:10.540[33m warn [39m [caliper] [bind] 	Working directory not specified. Using "/hyperledger/caliper/workspace"
-2025.04.23-17:33:10.541[32m info [39m [caliper] [bind] 	User-provided arguments for npm: "-g fs-extra"
-2025.04.23-17:33:10.541[32m info [39m [caliper] [bind] 	Binding for fabric@1.4. This might take some time...
-2025.04.23-17:33:10.541[32m info [39m [caliper] [bind] 	Using working directory: /hyperledger/caliper/workspace
-2025.04.23-17:33:10.541[32m info [39m [caliper] [bind] 	Calling npm with: install -g fs-extra fabric-client@1.4.14 fabric-protos@2.0.0-snapshot.1 fabric-network@1.4.14
-2025.04.23-17:34:37.172[32m info [39m [caliper] [cli-launch-manager] 	Set workspace path: /hyperledger/caliper/workspace
